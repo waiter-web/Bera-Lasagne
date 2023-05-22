@@ -1,0 +1,59 @@
+.buttons{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    font-family: 'Poppins', sans-serif;
+    margin-top: 1rem;
+    margin-bottom:3rem;
+}
+
+.bouton_contact{
+    font-size: 1.3em;    
+    background: linear-gradient(#bd0000, #ff7c02);
+    color: white;
+    border-radius: 50px;
+    padding: 20px 30px;
+    text-decoration: none;
+}
+
+.bouton_contact:hover{
+    background: linear-gradient(#ff5f02, #f7de73);
+    text-decoration: none
+}
+
+h2{
+    text-align: center;
+    margin: 1rem auto;
+    font-family: 'Lobster', cursive;
+    font-size: 2.5em;
+}
+
+p{
+    text-align: center;
+    color: black;
+}
+
+h3{
+    color: white;
+    text-align:center;
+    margin:2rem  auto 1rem auto;
+}
+.sponsors{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top:1rem;
+}
+
+.contact a {
+    text-decoration: underline;
+}
+
+.ouverture a {
+    text-decoration: underline;
+}
+
+footer p {
+    color: white;
+}
+
